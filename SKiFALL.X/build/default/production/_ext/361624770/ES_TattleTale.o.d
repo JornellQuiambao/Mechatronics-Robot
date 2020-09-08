@@ -1,0 +1,22 @@
+build/default/production/_ext/361624770/ES_TattleTale.o:  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/src/ES_TattleTale.c  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/BOARD.h  \
+ ES_Configure.h  \
+EventChecker.h  \
+ES_Configure.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_Framework.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_Events.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_Timers.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_CheckEvents.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_General.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_KeyboardInput.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_LookupTables.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_Port.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_PostList.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_PriorTables.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_Queue.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_ServiceHeaders.h  \
+ BotHSM.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_TattleTale.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/ES_TattleTale.h  \
+ C:/Users/jquiamba/Documents/SKiFALL/CMPE118/include/serial.h 
